@@ -1,0 +1,21 @@
+# output directory
+bin/
+
+# working directory
+tmp/
+
+# no binaries
+*.exe
+
+# no libraries
+*.lib
+*.a
+lib/*
+
+# no IDE files
+.vs
+*.sdf
+*.opensdf
+*.suo
+*.aps
+*.vcxproj.user
